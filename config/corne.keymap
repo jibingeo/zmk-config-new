@@ -39,13 +39,13 @@
             };
             combo_lctl {
                 timeout-ms = <50>;
-                key-positions = <12 13>;
+                key-positions = <14 15>;
                 bindings = <&kp LCTRL>;
                 layers = <0>;
             };
             combo_lalt {
                 timeout-ms = <50>;
-                key-positions = <22 23>;
+                key-positions = <26 27>;
                 bindings = <&kp LALT>;
                 layers = <0>;
             };
@@ -57,13 +57,13 @@
             };
             combo_rctrl {
                 timeout-ms = <50>;
-                key-positions = <18 19>;
+                key-positions = <20 21>;
                 bindings = <&kp RCTRL>;
                 layers = <0>;
             };
             combo_ratl {
                 timeout-ms = <50>;
-                key-positions = <28 29>;
+                key-positions = <32 33>;
                 bindings = <&kp RALT>;
                 layers = <0>;
             };
